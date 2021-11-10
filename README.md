@@ -2,8 +2,23 @@
 
 # Ironhack Data Analytics Labs
 
-## Getting Started
+## Getting Started soy un crack en git
+# Who am I sete morueco
 
+* Where are you from? madrid
+* What do you do? efe de ventas
+* Do you have previous experience with technology/data? no
+
+# Why am I here estudiando data analytics
+
+* What has brought you to Ironhack?
+* What knowledge/skills do you expect to learn in this bootcamp?
+
+# What will I do after the bootcamp?
+
+* Which industry will you seek employment in?
+* What will your future role look like?
+* What is your career goal?
 1. Install **git** following the instructions included [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). If you're using Ubuntu you can just:
 
 ```
